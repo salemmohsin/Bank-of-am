@@ -1,0 +1,32 @@
+ABU Books
+
+Accounting and financial management system for ABU RAHMAN TRUCKING LLC.
+
+Planned Features
+
+- Bank of America transaction imports
+- Secure bank-data connection
+- Expense categorization
+- Double-entry accounting
+- Accounts receivable and customer invoices
+- Profit and loss reports
+- Bank reconciliation
+- Employee permissions
+
+Technology Plan
+
+- Web application: Next.js
+- Hosting: Vercel
+- Database: Supabase PostgreSQL
+- Currency: USD
+
+Security
+
+- Never store bank login credentials.
+- Require authentication and role-based permissions.
+- Review imported transactions before posting.
+- Keep financial records separate from existing projects.
+
+Development Status
+
+Planning and initial setup. No live bank connection or production deployment.
